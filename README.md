@@ -1,8 +1,22 @@
 # Covid SEA Visualization
-A simple project include manipulating data and visualizing data. There's two main visualization that I made. By plotting new confirmed case vs total case we obtain the visualization of COVID-19 Journey at each SEA countries. And by plotting New confirmed case vs day passed, we can compare how well each country at SEA dealing with COVID-19.
+## Background
+A simple project that visualizing COVID - 19 data. In this case, South East Asia Countries, I would like to show how COVID - 19 journey for each countries. And then, by plotting New confirmed case vs day passed, we can get the idea how well each country at SEA dealing with COVID-19.
 
-# The Dataset
-The datasets imported from other github account and the entries update every day. Link to the dataset: https://github.com/CSSEGISandData/COVID-19 . The file already in csv, just needed to imported to python with pandas package. When this project updated it is 5/28/2020. So the visualization you see stop at 5/28/2020
+### The Dataset
+The dataset imported from other github account and the entries update every day.
 
-# The Visualization
-The first visualization we get to see the plot of covid-19 new confirmed cases with the day passed. Every country have different startung point. From this, we can judge how well the SEA countries deal with this pandemic andn compare it to each other. The second plot show New Confirmed Case againts Total Confirmed Case so we can see how Covid-19 journey for each country, straight line's dpwn show that sudden drop of new confirmed case and vice versa.
+See : https://github.com/CSSEGISandData/COVID-19
+
+The file already in csv, just needed to imported to python with pandas package. When this project is created, it is 5/28/2020. So the visualization you see stop at 5/28/2020
+
+### Learning Oppurtunities
+In this project, I need to manipulating data to get the desired DataFrame to visualizing the dataand then visualize the data.  Making my own function is needed to get the desired value such as the first day covid 19 occurred for each country.
+
+### Modules
+- pandas
+- matplotlib
+
+### What to Improve
+- COVID - 19 Data is updated everyday. Using API that update the COVID - 19 data everytime we run the code is needed.
+- The way I manipulating the table and data are not effective. So many unnecessary code. I need to read more about the function that available and its documentation.
+- The visualization its messy, without explanation its hard to interpret. I need to learn how to make less noisy graph and styling my graph more
