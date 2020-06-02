@@ -19,4 +19,4 @@ In this project, I need to manipulating data to get the desired DataFrame to vis
 ### What to Improve
 - COVID - 19 Data is updated everyday. Using API that update the COVID - 19 data everytime we run the code is needed.
 - The way I manipulating the table and data are not effective. So many unnecessary code. I need to read more about the function that available and its documentation.
-- The visualization its messy, without explanation its hard to interpret. I need to learn how to make less noisy graph and styling my graph more
+- The visualization is messy, without explanation its hard to interpret. I need to learn how to make less noisy graph and styling my graph more
