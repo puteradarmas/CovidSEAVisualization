@@ -9,7 +9,7 @@ See : https://github.com/CSSEGISandData/COVID-19
 
 The file already in csv, just needed to imported to python with pandas package. When this project is created, it is 5/28/2020. So the visualization you see stop at 5/28/2020
 
-### Learning Oppurtunities
+### Learning Opportunities
 In this project, I need to manipulating data to get the desired DataFrame to visualizing the dataand then visualize the data.  Making my own function is needed to get the desired value such as the first day covid 19 occurred for each country.
 
 ### Modules
